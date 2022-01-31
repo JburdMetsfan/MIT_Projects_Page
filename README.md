@@ -1,2 +1,2 @@
-# MIT_Projects_Page
+# PacMen Exercise
 Page to house and display different projects 
